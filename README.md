@@ -18,7 +18,7 @@ Currently learning and improving every day — one project at a time.
 ---
 
 ### 📊 GitHub Stats  
-![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushka-2809&show_icons=true&theme=radical)
+![Anushka's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Anushka-2809)
 
 ---
 
