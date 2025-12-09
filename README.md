@@ -7,8 +7,8 @@ Currently learning and improving every day — one project at a time.
 
 ---
 
-### 🚀 Tech Stack  
-HTML • CSS • JavaScript • TypeScript • Flutter
+## 🛠 Tech Stack  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,flutter,figma,git,github" />
 
 ---
 
