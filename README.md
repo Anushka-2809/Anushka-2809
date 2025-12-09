@@ -3,7 +3,7 @@
 
 I enjoy turning ideas into clean, functional and visually pleasing products.  
 I love exploring UI/UX, improving user experiences, and building modern web apps.  
-Currently learning and growing every day — one project at a time. 💛  
+Currently learning and growing every day — one project at a time. 
 
 ---
 
