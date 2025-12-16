@@ -13,7 +13,7 @@ Currently learning and improving every day — one project at a time.
 ---
 
 ### 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Anushka-2809&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anushka-2809&theme=radical&hide_border=true)
 
 ---
 
