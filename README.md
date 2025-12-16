@@ -17,8 +17,9 @@ Currently learning and improving every day — one project at a time.
 
 ---
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anushka-2809&show_icons=true&theme=radical)
+### 📈 Contribution Activity  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anushka-2809&theme=react-dark&hide_border=true)
+
 
 
 ---
