@@ -8,7 +8,7 @@ Currently learning and improving every day — one project at a time.
 ---
 
 ## 🛠 Tech Stack  
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,flutter,figma,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,postman,ts,flutter,figma,git,github" />
 
 ---
 
