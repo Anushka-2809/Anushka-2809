@@ -93,7 +93,7 @@ Worked with **React, Node.js, Express, and MongoDB** to develop web applications
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 [![Anushka's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anushka-2809&theme=github)](https://github.com/Anushka-2809)
 
